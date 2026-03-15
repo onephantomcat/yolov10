@@ -1,0 +1,10 @@
+path: C:/Users/13238/datasets/UA-DETRAC-VAL
+train: images/train
+val: images/val
+
+nc: 4
+names:
+  0: car
+  1: bus
+  2: van
+  3: truck

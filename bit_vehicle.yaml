@@ -1,0 +1,11 @@
+
+path: C:/Users/13238/yolov10/datasets/BITVehicle # 数据集根目录
+train: images/train
+val: images/val
+
+nc: 4
+names:
+  0: car
+  1: bus
+  2: van
+  3: truck
